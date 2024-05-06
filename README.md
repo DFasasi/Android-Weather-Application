@@ -1,5 +1,7 @@
-# Weather
-Weather app
+# Weather Report Application
+
+This project focuses on building a weather app for Android, aimed at providing practical experience with Java on a mobile platform. The app's primary functionality is to display the daily average temperature forecast for the upcoming week (i.e., 7 upcoming days) from the day the app runs.
+
 # Weather App with Open-Meteo API and Current Location
 
 The Weather app is a simple and easy-to-use weather app that displays the current weather conditions for your current location. With seamless Open-Meteo API integration, the app displays the current temperature, humidity, wind speed, and weather conditions. Let the Weather app help you stay on top of the weather, so you never get caught in the rain!
